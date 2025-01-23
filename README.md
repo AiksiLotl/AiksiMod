@@ -1,1 +1,1 @@
-# Aiksi-s-Balatro-Mod
+# Aiksi's Balatro Mod
