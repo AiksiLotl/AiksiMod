@@ -3,6 +3,7 @@
 --- MOD_ID: aiksimod
 --- MOD_AUTHOR: [Aiksi, Amy Lily]
 --- MOD_DESCRIPTION: Some Jokers and Decks!
+--- BADGE_COLOUR: cb4bc6
 --- DEPENDENCIES: [Steamodded>=1.0.0~ALPHA-1216c]
 --- VERSION: 0.1
 
@@ -13,6 +14,7 @@ local joker_list = {
     --- Uncommon
     -- Currently doesn't work due to a Cryptid bug :c
 --    "cry_flipped_joker"
+    "amelie_joker"
 }
 
 local deck_list = {
