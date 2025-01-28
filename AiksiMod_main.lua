@@ -14,7 +14,8 @@ local joker_list = {
     --- Uncommon
     -- Currently doesn't work due to a Cryptid bug :c
 --    "cry_flipped_joker"
-    "amelie_joker"
+    "amelie_joker",
+    "tf2_scout"
 }
 
 local deck_list = {
